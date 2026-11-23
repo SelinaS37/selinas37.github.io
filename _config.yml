@@ -4,9 +4,9 @@ title_separator: "-"
 name: &name "Yaqi (Selina) Shi"
 description: &description "PhD Student in Statistics / University of Toronto"
 url: "https://selinas37.github.io"
-baseurl: "/yaqishi.github.io"
-repository: "SelinaS37/yaqishi.github.io"
-remote_theme: academicpages/academicpages.github.io
+baseurl: ""
+repository: "SelinaS37/selinas37.github.io"
+remote_theme: academicpages/academicpages.github.io@ea56e24e8aadfdd06f2b42611be9f663290166fa
 future: true
 read_more: "disabled"
 comments:
