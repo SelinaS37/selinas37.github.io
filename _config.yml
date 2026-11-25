@@ -1,7 +1,7 @@
 locale: "en-US"
-title: "Yaqi Shi (Selina)"
+title: "Yaqi Shi"
 title_separator: "-"
-name: &name "Yaqi (Selina) Shi"
+name: &name "Yaqi Shi"
 description: &description "PhD Student in Statistics / University of Toronto"
 url: "https://selinas37.github.io"
 baseurl: ""
@@ -13,7 +13,7 @@ comments:
   provider: false
 
 author:
-  name: "Yaqi (Selina) Shi"
+  name: "Yaqi Shi"
   avatar: "yaqi_shi_headshot.jpg"
   bio: "PhD Student in Statistics"
   location: "Toronto, ON"
